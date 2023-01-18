@@ -6,6 +6,8 @@
         "default_popup": "index.html",
         "default_icon": "icon.png"
     },
+    "description": "Leads Tracker is a lead management tool that helps you monitor sales leads and where they are in your pipeline. ",
+
     "permissions": [
         "tabs"
     ]
